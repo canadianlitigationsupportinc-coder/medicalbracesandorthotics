@@ -1,0 +1,1 @@
+Open index.html in a browser or deploy the contents of this folder to a static host. Phone and email links use the confirmed contact details. Direct email opens the visitor's mail application; no web form or backend is configured. Product images are illustrative.
